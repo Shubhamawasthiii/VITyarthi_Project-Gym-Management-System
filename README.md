@@ -32,16 +32,13 @@ Runs completely in CMD / Terminal, uses file storage, and features auto-incremen
 - Data saved in `subs.txt`
 
 ---
-## Project Structure
-Gym-Management-System/
-│
-├── GymSystem.java
-│
-├── members.txt
-├── trainers.txt
-├── plans.txt
-└── subs.txt
+## Project Files
 
+- GymSystem.java (main program file)
+- members.txt (stores member data)
+- trainers.txt (stores trainer data) 
+- plans.txt (stores plan data)
+- subs.txt (stores subscription data)
 ---
 
 ## OOP Concepts Used
