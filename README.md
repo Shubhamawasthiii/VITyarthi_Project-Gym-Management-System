@@ -32,6 +32,7 @@ Runs completely in CMD / Terminal, uses file storage, and features auto-incremen
 - Data saved in `subs.txt`
 
 ---
+## Project Structure
 Gym-Management-System/
 │
 ├── GymSystem.java
@@ -52,4 +53,4 @@ Gym-Management-System/
 - Auto-ID generator
 - Service Layer pattern
 
-## Project Structure
+
